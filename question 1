@@ -1,3 +1,7 @@
+/*********************
+solution using concept of hash table,implementation by c++ stl unordered_multimap
+*********************/
+
 typedef unordered_multimap<int,int>::const_iterator CIT;
 class Solution {
 public:
