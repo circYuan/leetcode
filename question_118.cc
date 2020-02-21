@@ -1,5 +1,5 @@
 /* Pascal's Triangle.This question is given a number , and using two dimention vector to retrun the Pascal's Triangle.
-   I use DP to solve this problem.
+   I use DP to solve this problem. */
 
 class Solution {
 public:
