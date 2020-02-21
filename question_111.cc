@@ -10,7 +10,7 @@
  
  /* Minimum Depth of Binary Tree. This question is asked to find the min length from root to leaves. I use recursive method,finding every
     leave and comparing whose length is shortest.The fastest method is recoding the current shortest length, if any non leaf node has the
-    longest length than the current leaf length, it can stop to find the leaf on this path. When I created this file, I got this idea.
+    longest length than the current leaf length, it can stop to find the leaf on this path. When I created this file, I got this idea. */
  
 class Solution {
 public:
