@@ -1,4 +1,4 @@
-/* This question is asked for finding the best time to buy and sell stock.I use O(n) time complexity to sove this problem.
+/* This question is asked for finding the best time to buy and sell stock.I use O(n) time complexity to sove this problem.*/
 
 class Solution {
 public:
